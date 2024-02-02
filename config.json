@@ -1,0 +1,16 @@
+{
+    "bin_size": {
+        "battery": 6,   
+        "price": 3,
+        "hour": 3,
+        "action": 3
+    },
+    "properties": {
+        "reward_shaping": 0,
+        "penalties": 0,
+        "nr_simulations": 400,
+        "discount_rate": 0.95
+    },
+    "learning_rate": 0.10,
+    "adaptive_epsilon": 1
+}
