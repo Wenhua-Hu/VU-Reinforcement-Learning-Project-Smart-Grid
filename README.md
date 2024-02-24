@@ -15,4 +15,4 @@ python main.py --excel_file <file_path>
 The config.json file is configuration for runing the code with customized combinations of settings, the default one in the config.json is the config we have the best performance, where the total reward is round -485 .
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](./plots/Summary.jpeg)
