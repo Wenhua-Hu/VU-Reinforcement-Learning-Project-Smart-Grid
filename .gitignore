@@ -25,7 +25,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-data/
 temp/note.txt
 
 .DS_Store
